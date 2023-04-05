@@ -1,6 +1,6 @@
-- 👋 Aslam-o-alikum, I’m @tabishakhtar007860
+- 👋 Aslam-o-alikum, I’m Muhammad Tabish
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning  c++
+- 🌱 I’m currently learning  c# and OOP's
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 03146504662
 
