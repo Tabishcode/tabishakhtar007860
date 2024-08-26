@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tabish Akhtar</h1>
 <h3 align="center">A passionate full stack Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishakhtar007860&label=Profile%20views&color=0e75b6&style=flat" alt="tabishakhtar007860" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabishakhtar007860" alt="tabishakhtar007860" /></a> </p>
 
 - 🌱 I’m currently learning full stack applications **MERN, NEXTJS**
 
